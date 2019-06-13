@@ -57,6 +57,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\MeshPaint.cs" />
     <Compile Include="Assets\Scripts\MeshPoint.cs" />
+    <Compile Include="Assets\Scripts\ParticleSystemDrawPointCloud.cs" />
     <Compile Include="Assets\Scripts\TestDynamicPaintMesh.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/XAN_Files/Applications/Program Files/Unity/UnityProjects/Works/SimpleDynamicMeshPaint/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
